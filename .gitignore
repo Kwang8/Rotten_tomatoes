@@ -1,2 +1,6 @@
 rotten_tomatoes_critic_reviews.csv
-
+imdb_genres.csv
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
